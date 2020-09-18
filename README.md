@@ -1,5 +1,7 @@
  # ChainSlayer Historical Data
-[![ChainSlayer homepage]("cs_logo.png")](https://www.chainslayer.io)
+
+[![chainslayer homepage](cs_logo.png)](http://www.chainslayer.io)
+
 Easy programmatic fetching of historical crypto market data from the ChainSlayer API. 
 
 # Features
