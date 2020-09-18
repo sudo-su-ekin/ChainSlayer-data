@@ -42,5 +42,5 @@ $ python3 CSData.py candle BTC-USD 01/09/2020 1h 100 ascending 15/09/2020 csv
 ```
 
 # Contact us 
-Our community is active in Discord. Join our community by clicking the discord logo below!
+Our community is active in Discord. Join SlayerChat by clicking the discord logo below!
 [![discord community](Discord-Logo+Wordmark-Black)](https://discord.gg/5yBsY5P)
