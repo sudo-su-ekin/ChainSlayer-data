@@ -1,5 +1,5 @@
  # ChainSlayer Historical Data
-![ChainSlayer]("icon transparent.png") 
+[![ChainSlayer homepage]("icon transparent.png")](https://www.chainslayer.io)
 Easy programmatic fetching of historical crypto market data from the ChainSlayer API. 
 
 # Features
@@ -40,5 +40,5 @@ $ python3 CSData.py candle BTC-USD 01/09/2020 1h 100 ascending 15/09/2020 csv
 ```
 
 # Contact us 
-Our community is active in Discord. Please join SlayerChat to find out more.
+Our community is active in Discord. Join our community by clicking the discord logo below!
 [![discord community](Discord-Logo+Wordmark-Black)](https://discord.gg/5yBsY5P)
