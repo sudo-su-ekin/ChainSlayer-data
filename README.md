@@ -6,7 +6,7 @@ Easy programmatic fetching of historical crypto market data from the ChainSlayer
 
 # Features
 
-  - Support for 1m-1d candle data since ~1.6.2020.
+  - Support for 1m-1d candle data.
   - 8 exchanges, 244 spot pairs.
   - Loads data automatically from the API.
   - Loaded data can be stored as .csv in the datasets folder.
